@@ -1,4 +1,5 @@
-#Problem 877
+# Problem 877
+# dynamic programming
 
 class Solution:
     def stoneGame(self, piles):
